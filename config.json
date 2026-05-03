@@ -21,10 +21,10 @@
   "Villages": [],
   "REPLICATE_API_TOKEN": "r8_OGSe3t07ORJtSgaSyzP5Mfbcv00lNpl2Mugh6",
   "ai_keys": [
-    "AIzaSyDhYJaf7akTJUd7b-4TCL2UNspc--Di_PQ",
-    "AIzaSyA6swRr_ezR5kI1iCsGFEU3l30E29qVi_0"
+    "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",
+    "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"
   ],
-  "ai_key": "AIzaSyDhYJaf7akTJUd7b-4TCL2UNspc--Di_PQ",
+  "ai_key": "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",
   "ai_endpoint": "https://generativelanguage.googleapis.com",
   "developmentMode": false,
   "hf_token": "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"
