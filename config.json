@@ -17,7 +17,7 @@
   ],
   "email": "",
   "password": "",
-  "mongoURI": "mongodb+srv://ahmedaltwm555_db_user:PaslZZmgX7VXRzlw@ber1.jn7kisv.mongodb.net/?appName=ber1",
+  "mongoURI": "mongodb+srv://Linux:Abc123@cluster0.hnnjxmk.mongodb.net/?appName=Cluster0",
   "Villages": [],
   "REPLICATE_API_TOKEN": "r8_OGSe3t07ORJtSgaSyzP5Mfbcv00lNpl2Mugh6",
   "ai_keys": [
